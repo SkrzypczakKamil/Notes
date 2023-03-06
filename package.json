@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "body": "^5.1.0",
     "express": "^4.18.2",
-    "mongoose": "^7.0.0"
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0",
+    "par": "^0.3.0"
   }
 }
